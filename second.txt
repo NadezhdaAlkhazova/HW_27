@@ -1,1 +1,2 @@
 I like Node JS
+Я люблю NodeJS
